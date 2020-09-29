@@ -10,6 +10,6 @@ modification3 to test reset(mixed)normal
 modification4
 modification5 next to stash
 modification6 
-
+modification7
 
 
