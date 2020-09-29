@@ -8,5 +8,5 @@ modification1
 modification2 to test soft reset
 modification3 to test reset(mixed)normal
 modification4
-
+modification5 next to stash
 
