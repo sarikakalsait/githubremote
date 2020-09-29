@@ -5,7 +5,11 @@ add data to repo
 readme.md file modified
 readme.md file data added at remote site
 modification1
+<<<<<<< HEAD
 modification2 to test soft reset
 modification3 to test reset(mixed)normal
 modification4
 
+=======
+modification2 to test reset
+>>>>>>> parent of 0a732a1... reset(mixed)
